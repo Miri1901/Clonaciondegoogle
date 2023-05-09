@@ -1,6 +1,6 @@
 # Clonación de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp de Technolochicas PRO.⭐
 
-## ÍNDICE
+## ÍNDICE 
 
 * [1.Intro]
 * [2.Qué construí](#)
