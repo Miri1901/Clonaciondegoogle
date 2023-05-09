@@ -3,7 +3,7 @@
 ## ÍNDICE
 
 * [1.Intro]
-* [2.Qué construmí](#)
+* [2.Qué construí](#)
 
 
 ****
